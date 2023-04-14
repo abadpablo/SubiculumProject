@@ -1,2 +1,3 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Project
 fsub2_110223_sess3,fsub2,fsub2\fsub2_110223_sess3,c57b1/6,wild type,open field,60,VISp pSUB DG,SubiculumProject
+fsub2_130223_sess4,fsub2,fsub2\fsub2_130223_sess4,c57b1/6,wild type,open field,54,SUBsp VISp DG,SubiculumProject
