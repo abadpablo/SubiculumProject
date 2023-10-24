@@ -8,16 +8,14 @@ fsub2_170223_sess8,fsub2,fsub2\fsub2_170223_sess8,c57b1/6,wild type,open field,7
 fsub1_120223_sess34,fsub1,fsub1\fsub1_120223_sess34,c57b1/6,wild type,open field,30,pSUB VISp DG,SubiculumProject
 fsub1_130223_sess35,fsub1,fsub1\fsub1_130223_sess35,c57b1/6,wild type,open field,42,VISp disSUBsp DG,SubiculumProject
 fsub1_140223_sess36,fsub1,fsub1\fsub1_140223_sess36,c57b1/6,wild type,open field,47,VISp disSUB pSUBsp DG,SubiculumProject
-fsub1_021222_sess17,fsub1,fsub1\fsub1_021222_sess17,c57b1/6,wild type,tmaze open field,86,VISp DG pSUBsp,SubiculumProject
-fsub1_281122_sess13,fsub1,fsub1\fsub1_281122_sess13,c57b1/6,wild type,open field,110,VISp DG disSUBsp disSUBsr,SubiculumProject
 fsub1_070223_sess29,fsub1,fsub1\fsub1_070223_sess29,c57b1/6,wild type,open field,51,VISp disSUB pSUBsp DG SUBsp,SubiculumProject
 fsub1_171122_sess6,fsub1,fsub1\fsub1_171122_sess6,c57b1/6,wild type,tmaze,105,VISp SUBsp DG,SubiculumProject
-fsub1_181122_sess7,fsub1,fsub1\fsub1_181122_sess7,c57b1/6,wild type,open field,102,VISp pSUB DG,SubiculumProject
+fsub1_181122_sess7,fsub1,fsub1\fsub1_181122_sess7,c57b1/6,wild type,tmaze,102,VISp pSUB DG,SubiculumProject
 fsub1_100223_sess32,fsub1,fsub1\fsub1_100223_sess32,c57b1/6,wild type,open field,74,pSUB disSUB SUBsp VISp DG,SubiculumProject
 fsub1_110223_sess33,fsub1,fsub1\fsub1_110223_sess33,c57b1/6,wild type,open field,52,pSUB VISp DG,SubiculumProject
 fsub2_210423_sess14,fsub2,fsub2\fsub2_210423_sess14,c57b1/6,wild type,open field,57,SUBsp VISp DG,SubiculumProject
 fsub2_250423_sess15,fsub2,fsub2\fsub2_250423_sess15,c57b1/6,wild type,open field,54,SUBsp VISp DG,SubiculumProject
-fsub2_210223_sess9,fsub2,fsub2\fsub2_210223_sess9,c57b1/6,wild type,open field,66,VISp SUBsp DG,SubiculumProject
+fsub2_210223_sess9,fsub2,fsub2\fsub2_210223_sess9,c57b1/6,wild type,linear track,66,VISp SUBsp DG,SubiculumProject
 fsub1_160223_sess38,fsub1,fsub1\fsub1_160223_sess38,c57b1/6,wild type,lineartrack,32,pSUBsp VISp DG,SubiculumProject
 fsub2_040523_sess19,fsub2,fsub2\fsub2_040523_sess19,c57b1/6,wild type,1m open field,44,SUBsp VISp DG,SubiculumProject
 fsub2_260423_sess16,fsub2,fsub2\fsub2_260423_sess16,c57b1/6,wild type,open field,55,SUBsp VISp DG,SubiculumProject
@@ -29,8 +27,7 @@ fsub1_231222_sess25,fsub1,fsub1\fsub1_231222_sess25,c57b1/6,wild type,tmaze,64,V
 fsub1_271222_sess27,fsub1,fsub1\fsub1_271222_sess27,c57b1/6,wild type,tmaze,52,SUBsp VISp DG,SubiculumProject
 fsub2_280423_sess18,fsub2,fsub2\fsub2_280423_sess18,c57b1/6,wild type,open field,63,SUBsp VISp DG,SubiculumProject
 fsub1_211122_sess8,fsub1,fsub1\fsub1_211122_sess8,c57b1/6,wild type,tmaze,123,SUBsp VISp DG,SubiculumProject
-hps22_210521_sess117,hps22,hps22\hps22_210521_sess117,c57b1/6,wild type,open field,31,PTLp SUBsp CA1sr,SubiculumProject
-fsub2_050523_sess20,fsub2,fsub2\fsub2_050523_sess20,c57b1/6,willd type,open field 1m open field open field,40,SUBsp DG VISp,SubiculumProject
+fsub2_050523_sess20,fsub2,fsub2\fsub2_050523_sess20,c57b1/6,wild type,open field 1m open field open field,40,SUBsp DG VISp,SubiculumProject
 fsub2_090523_sess21,fsub2,fsub2\fsub2_090523_sess21,c57b1/6,wild type,open field,52,SUBsp VISp DG,SubiculumProject
 fsub2_220223_sess10,fsub2,fsub2\fsub2_220223_sess10,c57b1/6,wild type,linear track,75,VISp SUBsp DG,SubiculumProject
 fsub2_230223_sess11,fsub2,fsub2\fsub2_230223_sess11,c57b1/6,wild type,linear track,50,VISp SUBsp DG,SubiculumProject
@@ -39,7 +36,18 @@ fsub1_080223_sess30,fsub1,fsub1\fsub1_080223_sess30,c57b1/6,wild type,open field
 fsub2_100523_sess22,fsub2,fsub2\fsub2_100523_sess22,c57b1/6,wild type,open field,51,SUBsp VISp DG,SubiculumProject
 fsub2_110523_sess23,fsub2,fsub2\fsub2_110523_sess23,c57b1/6,wild type,open field 1m open field open field,43,SUBsp VISp DG,SubiculumProject
 fsub1_161222_sess22,fsub1,fsub1\fsub1_161222_sess22,c57b1/6,wild type,open field tmaze,57,SUBsp VISp DG,SubiculumProject
-fsub1_121222_sess18,fsub1,fsub1\fsub1_121222_sess18,c57b1/6,wild type,tmaze,137,disSUBsp disSUBsr disSUBm DG VISp,SubiculumProject
+fsub1_121222_sess18,fsub1,fsub1\fsub1_121222_sess18,c57b1/6,wild type,open field,137,disSUBsp disSUBsr disSUBm DG VISp,SubiculumProject
 fsub1_170223_sess39,fsub1,fsub1\fsub1_170223_sess39,c57b1/6,wild type,linear track,10,SUBsp DG,SubiculumProject
 fsub2_190423_sess12,fsub2,fsub2\fsub2_190423_sess12,c57b1/6,wild type,open field,80,SUBsp VISp DG,SubiculumProject
 fsub1_221122_sess9,fsub1,fsub1\fsub1_221122_sess9,c57b1/6,wild type,tmaze,96,SUBsp VISp DG,SubiculumProject
+ipo16559_090623_sess1,ipo16559,ipo16559\ipo16559_090623_sess1,c57b1/6,wild type,open field,44,CA1sp PTLp CA1sr CA1slm CA3,SubiculumProject
+ipo16559_120623_sess2,ipo16559,ipo16559\ipo16559_120623_sess2,c57b1/6,wild type,open field,66,PTLp CA1 CA3,SubiculumProject
+ipo16559_130623_sess3,ipo16559,ipo16559\ipo16559_130623_sess3,c57b1/6,wild type,open field,89,CA1 PTLp CA3,SubiculumProject
+ipo14370_160623_sess1,ipo14370,ipo14370\ipo14370_160623_sess1,c57b1/6,wild type,open field,82,CA1 PTLp CA3,SubiculumProject
+ipo16559_140623_sess4,ipo16559,ipo16559\ipo16559_140623_sess4,c57b1/6,wild type,ymaze,99,CA1 CA3 PTLp,SubiculumProject
+ipo16559_150623_sess5,ipo16559,ipo16559\ipo16559_150623_sess5,c57b1/6,wild type,ymaze sample,94,CA1 PTLp CA3,SubiculumProject
+ipo14370_220623_sess3,ipo14370,ipo14370\ipo14370_220623_sess3,c57b1/6,wild type,open field,26,CA1 PTLp CA3,SubiculumProject
+ipo14370_190623_sess2,ipo14370,ipo14370\ipo14370_190623_sess2,c57b1/6,wild type,open field,64,CA1 PTLp CA3,SubiculumProject
+ipo14370_070723_sess10,ipo14370,ipo14370\ipo14370_070723_sess10,c57b1/6,wild type,open field,83,CA1 PTLp CA3,SubiculumProject
+ipo14370_140723_sess12,ipo14370,ipo14370\ipo14370_140723_sess12,c57b1/6,wild type,pc,70,CA1 PTLp CA3,SubiculumProject
+fsub1_161122_sess5,fsub1,fsub1\fsub1_161122_sess5,c57b1/6,wild type,tmaze,129,SUBsp VISp DG,SubiculumProject
