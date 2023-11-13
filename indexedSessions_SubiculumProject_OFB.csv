@@ -1,0 +1,3 @@
+SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Project
+fsub2_050523_sess20,fsub2,fsub2\fsub2_050523_sess20,c57b1/6,wild type,open field 1m open field open field,40,SUBsp DG VISp,SubiculumProject
+fsub2_110523_sess23,fsub2,fsub2\fsub2_110523_sess23,c57b1/6,wild type,open field 1m open field open field,43,SUBsp VISp DG,SubiculumProject

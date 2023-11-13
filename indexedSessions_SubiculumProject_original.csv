@@ -8,6 +8,7 @@ fsub2_170223_sess8,fsub2,fsub2\fsub2_170223_sess8,c57b1/6,wild type,open field,7
 fsub1_120223_sess34,fsub1,fsub1\fsub1_120223_sess34,c57b1/6,wild type,open field,30,pSUB VISp DG,SubiculumProject
 fsub1_130223_sess35,fsub1,fsub1\fsub1_130223_sess35,c57b1/6,wild type,open field,42,VISp disSUBsp DG,SubiculumProject
 fsub1_140223_sess36,fsub1,fsub1\fsub1_140223_sess36,c57b1/6,wild type,open field,47,VISp disSUB pSUBsp DG,SubiculumProject
+fsub1_021222_sess17,fsub1,fsub1\fsub1_021222_sess17,c57b1/6,wild type,tmaze open field,86,VISp DG pSUBsp,SubiculumProject
 fsub1_070223_sess29,fsub1,fsub1\fsub1_070223_sess29,c57b1/6,wild type,open field,51,VISp disSUB pSUBsp DG SUBsp,SubiculumProject
 fsub1_171122_sess6,fsub1,fsub1\fsub1_171122_sess6,c57b1/6,wild type,tmaze,105,VISp SUBsp DG,SubiculumProject
 fsub1_181122_sess7,fsub1,fsub1\fsub1_181122_sess7,c57b1/6,wild type,tmaze,102,VISp pSUB DG,SubiculumProject
@@ -50,3 +51,6 @@ ipo14370_220623_sess3,ipo14370,ipo14370\ipo14370_220623_sess3,c57b1/6,wild type,
 ipo14370_190623_sess2,ipo14370,ipo14370\ipo14370_190623_sess2,c57b1/6,wild type,open field,64,CA1 PTLp CA3,SubiculumProject
 ipo14370_070723_sess10,ipo14370,ipo14370\ipo14370_070723_sess10,c57b1/6,wild type,open field,83,CA1 PTLp CA3,SubiculumProject
 ipo14370_140723_sess12,ipo14370,ipo14370\ipo14370_140723_sess12,c57b1/6,wild type,pc,70,CA1 PTLp CA3,SubiculumProject
+fsub1_161122_sess5,fsub1,fsub1\fsub1_161122_sess5,c57b1/6,wild type,tmaze,129,SUBsp VISp DG,SubiculumProject
+fsub1_090223_sess31,fsub1,fsub1\fsub1_090223_sess31,c57b1/6,wild type,open field 1m open field  open field,81,SUBsp VISp DG,SubiculumProject
+fsub1_150223_sess37,fsub1,fsub1\fsub1_150223_sess37,c57b1/6,wild type,linearmaze,31,SUBsp VISp DG,SubiculumProject

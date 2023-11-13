@@ -1,0 +1,15 @@
+SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Project
+fsub1_171122_sess6,fsub1,fsub1\fsub1_171122_sess6,c57b1/6,wild type,tmaze,105,VISp SUBsp DG,SubiculumProject
+fsub1_181122_sess7,fsub1,fsub1\fsub1_181122_sess7,c57b1/6,wild type,tmaze,102,VISp pSUB DG,SubiculumProject
+fsub2_210223_sess9,fsub2,fsub2\fsub2_210223_sess9,c57b1/6,wild type,linear track,66,VISp SUBsp DG,SubiculumProject
+fsub1_160223_sess38,fsub1,fsub1\fsub1_160223_sess38,c57b1/6,wild type,lineartrack,32,pSUBsp VISp DG,SubiculumProject
+fsub1_291122_sess14,fsub1,fsub1\fsub1_291122_sess14,c57b1/6,wild type,tmaze,115,VISp SUBsp DG,SubiculumProject
+fsub1_011222_sess16,fsub1,fsub1\fsub1_011222_sess16,c57b1/6,wild type,tmaze,121,VISp SUBsp DG,SubiculumProject
+fsub1_211222_sess23,fsub1,fsub1\fsub1_211222_sess23,c57b1/6,wild type,tmaze,59,SUBsp VISp DG,SubiculumProject
+fsub1_231222_sess25,fsub1,fsub1\fsub1_231222_sess25,c57b1/6,wild type,tmaze,64,VISp SUBsp DG,SubiculumProject
+fsub1_271222_sess27,fsub1,fsub1\fsub1_271222_sess27,c57b1/6,wild type,tmaze,52,SUBsp VISp DG,SubiculumProject
+fsub1_211122_sess8,fsub1,fsub1\fsub1_211122_sess8,c57b1/6,wild type,tmaze,123,SUBsp VISp DG,SubiculumProject
+fsub2_220223_sess10,fsub2,fsub2\fsub2_220223_sess10,c57b1/6,wild type,linear track,75,VISp SUBsp DG,SubiculumProject
+fsub2_230223_sess11,fsub2,fsub2\fsub2_230223_sess11,c57b1/6,wild type,linear track,50,VISp SUBsp DG,SubiculumProject
+fsub1_170223_sess39,fsub1,fsub1\fsub1_170223_sess39,c57b1/6,wild type,linear track,10,SUBsp DG,SubiculumProject
+fsub1_221122_sess9,fsub1,fsub1\fsub1_221122_sess9,c57b1/6,wild type,tmaze,96,SUBsp VISp DG,SubiculumProject
